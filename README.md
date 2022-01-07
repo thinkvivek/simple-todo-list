@@ -1,4 +1,4 @@
 ## simple-todo-list
 
 
-![Screenshot](screenshot.jpg)
+![Screenshot](./screenshot.jpg)
